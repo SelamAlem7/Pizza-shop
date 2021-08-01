@@ -1,0 +1,23 @@
+body {
+  background-color: pink;
+}
+
+h1 {
+  color: white;
+  font-size: 24px;
+  font-family: Aria, Helvetica, Sans-Serif; 
+}
+
+.header {
+  border: 1px solid black;
+  padding-left: 10px;
+}
+
+.footer {
+  background: Grey
+}
+
+
+div {
+  border: 1px solid black;
+}
